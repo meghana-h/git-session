@@ -1,0 +1,2 @@
+# git-session
+GHC session
